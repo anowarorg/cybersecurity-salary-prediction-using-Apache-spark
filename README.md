@@ -21,6 +21,8 @@ Two machine learning models were employed for evaluation:
 ## User Interface
 A basic user interface was implemented using Flask in app.py. This allows users to interact with the predictive models and obtain salary predictions based on provided input.
 
+![sample-01](https://github.com/anowarorg/cybersecurity-salary-prediction-using-Apache-spark/assets/103601765/7986c390-9f0f-40b5-a4ba-151e9aa18d17)
+
 ## Usage
 1. Ensure Apache Spark, Hadoop, and Flask are installed.
 2. Run the Flask app using python app.py.
